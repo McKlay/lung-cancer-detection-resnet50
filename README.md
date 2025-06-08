@@ -18,7 +18,18 @@ tags:
   - tensorflow
 ---
 
-# CT Scan Lung Cancer Detection (ResNet50 + Grad-CAM)
+[![HF Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Space-blue?logo=huggingface&style=flat-square)](https://github.com/McKlay/lung-cancer-detection-resnet50)
+[![Gradio](https://img.shields.io/badge/Built%20with-Gradio-orange?logo=gradio&style=flat-square)](https://www.gradio.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/McKlay/lung-cancer-detection-resnet50)
+![GitHub Repo stars](https://img.shields.io/github/stars/McKlay/lung-cancer-detection-resnet50?style=social)
+![GitHub forks](https://img.shields.io/github/forks/McKlay/lung-cancer-detection-resnet50?style=social)
+![MIT License](https://img.shields.io/github/license/McKlay/lung-cancer-detection-resnet50)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=McKlay.lung-cancer-detection-resnet50)
+
+# 🫁 CT Scan Lung Cancer Detection (ResNet50 + Grad-CAM)
 
 **CTScan-LungCancer-ResNet50** is an AI-powered tool that detects lung cancer from chest CT scan images using a fine-tuned ResNet50 model. It also visualizes model attention with Grad-CAM heatmaps to help interpret predictions.
 
@@ -28,9 +39,9 @@ tags:
 
 ---
 
-## Try It Out
+## 🌐 Demo
 
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/McKlay/CTScan-LungCancer-ResNet50)
+**Deployed on Hugging Face Spaces:** [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/McKlay/CTScan-LungCancer-ResNet50)
 
 ---
 
